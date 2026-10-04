@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="488" viewBox="0 0 1000 488" role="img" aria-label="Career timeline">
+  <title>Career timeline</title>
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1626"/><stop offset="1" stop-color="#080D19"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.1" cy="0" r="0.6"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gr" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.22"/><stop offset="0.6" stop-color="#38BDF8" stop-opacity="0.08"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity="0.05"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="487" rx="22" fill="url(#panel)" stroke="#1B2740"/>
+  <rect x="0.5" y="0.5" width="999" height="487" rx="22" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="999" height="487" rx="22" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="999" height="487" rx="22" fill="url(#g2)"/>
+  <text x="48" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2.4" font-weight="600"><tspan fill="#2DD4BF">04</tspan><tspan fill="#5C6C88"> / </tspan><tspan fill="#8A9BB5">CAREER</tspan></text>
+  <rect x="48" y="64" width="44" height="3" rx="1.5" fill="url(#acc)"/>
+  <line x1="100" y1="65.5" x2="952" y2="65.5" stroke="#1B2740" stroke-width="1"/>
+  <rect x="212.75" y="112" width="2.5" height="306" rx="1.25" fill="url(#accv)"/>
+  <text x="186" y="134" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" fill="#8A9BB5">2021 — now</text>
+  <circle cx="214" cy="129" r="11" fill="#080D19" stroke="url(#acc)" stroke-width="3"/>
+  <circle cx="214" cy="129" r="5" fill="#2DD4BF"><animate attributeName="r" values="4;6.5;4" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="248" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#E8EEF8">Project Leader<tspan fill="#5C6C88" font-weight="400">  @  </tspan><tspan fill="#2DD4BF" font-weight="700">Dabluete</tspan></text>
+  <text x="248" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">High-end multi-tenant SaaS: ERP, CRM, healthcare, education, hospitality and AI</text>
+  <text x="248" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">products.</text>
+  <text x="186" y="230" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" fill="#8A9BB5">2024 — now</text>
+  <circle cx="214" cy="225" r="11" fill="#080D19" stroke="url(#acc)" stroke-width="3"/>
+  <circle cx="214" cy="225" r="5" fill="#2DD4BF"><animate attributeName="r" values="4;6.5;4" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="248" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#E8EEF8">Team Leader<tspan fill="#5C6C88" font-weight="400">  @  </tspan><tspan fill="#2DD4BF" font-weight="700">Saviors</tspan></text>
+  <text x="248" y="246" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">Custom solutions for overseas clients, plus support of their existing systems.</text>
+  <text x="186" y="326" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" fill="#8A9BB5">2019 — 2024</text>
+  <circle cx="214" cy="321" r="11" fill="#080D19" stroke="url(#acc)" stroke-width="3"/>
+  <circle cx="214" cy="321" r="4" fill="#5C6C88"/>
+  <text x="248" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#E8EEF8">Software Engineer<tspan fill="#5C6C88" font-weight="400">  @  </tspan><tspan fill="#2DD4BF" font-weight="700">ABCtechnologies</tspan></text>
+  <text x="248" y="342" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">IoT platforms with PLC integration and thermodynamic calculation software; mentored</text>
+  <text x="248" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">5 engineers.</text>
+  <text x="186" y="422" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="600" fill="#8A9BB5">2018 — 2021</text>
+  <circle cx="214" cy="417" r="11" fill="#080D19" stroke="url(#acc)" stroke-width="3"/>
+  <circle cx="214" cy="417" r="4" fill="#5C6C88"/>
+  <text x="248" y="414" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#E8EEF8">MSCS<tspan fill="#5C6C88" font-weight="400">  @  </tspan><tspan fill="#2DD4BF" font-weight="700">Muhammad Ali Jinnah University</tspan></text>
+  <text x="248" y="438" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8A9BB5">Master of Science in Computer Science.</text>
+</svg>

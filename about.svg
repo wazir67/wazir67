@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="412" viewBox="0 0 1000 412" role="img" aria-label="About Muhammad Tufail">
+  <title>About Muhammad Tufail</title>
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1626"/><stop offset="1" stop-color="#080D19"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.1" cy="0" r="0.6"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gr" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.22"/><stop offset="0.6" stop-color="#38BDF8" stop-opacity="0.08"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity="0.05"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="411" rx="22" fill="url(#panel)" stroke="#1B2740"/>
+  <rect x="0.5" y="0.5" width="999" height="411" rx="22" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="999" height="411" rx="22" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="999" height="411" rx="22" fill="url(#g2)"/>
+  <text x="48" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2.4" font-weight="600"><tspan fill="#2DD4BF">01</tspan><tspan fill="#5C6C88"> / </tspan><tspan fill="#8A9BB5">ABOUT</tspan></text>
+  <rect x="48" y="64" width="44" height="3" rx="1.5" fill="url(#acc)"/>
+  <line x1="100" y1="65.5" x2="952" y2="65.5" stroke="#1B2740" stroke-width="1"/>
+  <text x="48" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">Software engineer and project lead with 7+ years</text>
+  <text x="48" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">of experience designing and delivering web,</text>
+  <text x="48" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">mobile and IoT software for business clients.</text>
+  <text x="48" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">Expert-level PHP developer across Laravel,</text>
+  <text x="48" y="224" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">CodeIgniter, React, TypeScript, Flutter and</text>
+  <text x="48" y="252" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">Python, turning client requirements into</text>
+  <text x="48" y="280" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">reliable, production-ready systems. Experienced</text>
+  <text x="48" y="308" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">in leading onshore and offshore teams and</text>
+  <text x="48" y="336" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">shipping multi-tenant SaaS, ERP, CRM and real-</text>
+  <text x="48" y="364" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#C3D0E6">time data platforms.</text>
+  <rect x="560" y="92" width="392" height="248" rx="16" fill="#ffffff" fill-opacity="0.035" stroke="#1B2740"/>
+  <text x="582" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" fill="#5C6C88" font-weight="600">ROLE</text>
+  <text x="650" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#E8EEF8">Project Leader @ Dabluete</text>
+  <text x="582" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" fill="#5C6C88" font-weight="600">ALSO</text>
+  <text x="650" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#E8EEF8">Team Leader @ Saviors</text>
+  <text x="582" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" fill="#5C6C88" font-weight="600">BASE</text>
+  <text x="650" y="218" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#E8EEF8">Karachi, Pakistan</text>
+  <text x="582" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" fill="#5C6C88" font-weight="600">STUDY</text>
+  <text x="650" y="262" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#E8EEF8">MSCS, Muhammad Ali Jinnah Univ.</text>
+  <text x="582" y="306" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" fill="#5C6C88" font-weight="600">FOCUS</text>
+  <text x="650" y="306" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#E8EEF8">SaaS · ERP/CRM · AI · IoT</text>
+</svg>

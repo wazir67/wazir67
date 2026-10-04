@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="512" viewBox="0 0 1000 512" role="img" aria-label="Technology stack">
+  <title>Technology stack</title>
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1626"/><stop offset="1" stop-color="#080D19"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.1" cy="0" r="0.6"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gr" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.22"/><stop offset="0.6" stop-color="#38BDF8" stop-opacity="0.08"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity="0.05"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="511" rx="22" fill="url(#panel)" stroke="#1B2740"/>
+  <rect x="0.5" y="0.5" width="999" height="511" rx="22" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="999" height="511" rx="22" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="999" height="511" rx="22" fill="url(#g2)"/>
+  <text x="48" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2.4" font-weight="600"><tspan fill="#2DD4BF">02</tspan><tspan fill="#5C6C88"> / </tspan><tspan fill="#8A9BB5">TECH STACK</tspan></text>
+  <rect x="48" y="64" width="44" height="3" rx="1.5" fill="url(#acc)"/>
+  <line x1="100" y1="65.5" x2="952" y2="65.5" stroke="#1B2740" stroke-width="1"/>
+  <text x="48" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">LANGUAGES</text>
+  <rect x="238" y="96" width="68" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="113.0" r="4.5" fill="#777BB4"/>
+  <text x="268" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">PHP</text>
+  <rect x="316" y="96" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="333" cy="113.0" r="4.5" fill="#3776AB"/>
+  <text x="346" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Python</text>
+  <rect x="418" y="96" width="125" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="435" cy="113.0" r="4.5" fill="#F7DF1E"/>
+  <text x="448" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">JavaScript</text>
+  <rect x="553" y="96" width="125" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="570" cy="113.0" r="4.5" fill="#3178C6"/>
+  <text x="583" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">TypeScript</text>
+  <rect x="688" y="96" width="68" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="705" cy="113.0" r="4.5" fill="#4479A1"/>
+  <text x="718" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">SQL</text>
+  <line x1="48" y1="143" x2="952" y2="143" stroke="#1B2740" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="48" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">BACKEND</text>
+  <rect x="238" y="156" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="173.0" r="4.5" fill="#FF2D20"/>
+  <text x="268" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Laravel</text>
+  <rect x="348" y="156" width="133" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="365" cy="173.0" r="4.5" fill="#EF4223"/>
+  <text x="378" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">CodeIgniter</text>
+  <rect x="491" y="156" width="116" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="508" cy="173.0" r="4.5" fill="#2DD4BF"/>
+  <text x="521" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">REST APIs</text>
+  <rect x="617" y="156" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="634" cy="173.0" r="4.5" fill="#A78BFA"/>
+  <text x="647" y="178" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Webhooks</text>
+  <line x1="48" y1="203" x2="952" y2="203" stroke="#1B2740" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="48" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">FRONTEND &amp; MOBILE</text>
+  <rect x="238" y="216" width="84" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="233.0" r="4.5" fill="#61DAFB"/>
+  <text x="268" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">React</text>
+  <rect x="332" y="216" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="349" cy="233.0" r="4.5" fill="#42A5F5"/>
+  <text x="362" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Flutter</text>
+  <rect x="442" y="216" width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="459" cy="233.0" r="4.5" fill="#0175C2"/>
+  <text x="472" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Dart</text>
+  <rect x="528" y="216" width="84" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="545" cy="233.0" r="4.5" fill="#E34F26"/>
+  <text x="558" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">HTML5</text>
+  <rect x="622" y="216" width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="639" cy="233.0" r="4.5" fill="#1572B6"/>
+  <text x="652" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">CSS3</text>
+  <rect x="708" y="216" width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="725" cy="233.0" r="4.5" fill="#CC6699"/>
+  <text x="738" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Sass</text>
+  <line x1="48" y1="263" x2="952" y2="263" stroke="#1B2740" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="48" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">DATA &amp; SERVERS</text>
+  <rect x="238" y="276" width="84" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="293.0" r="4.5" fill="#4479A1"/>
+  <text x="268" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">MySQL</text>
+  <rect x="332" y="276" width="125" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="349" cy="293.0" r="4.5" fill="#CC2927"/>
+  <text x="362" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">SQL Server</text>
+  <rect x="467" y="276" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="484" cy="293.0" r="4.5" fill="#F80000"/>
+  <text x="497" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">PL/SQL</text>
+  <rect x="569" y="276" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="586" cy="293.0" r="4.5" fill="#D22128"/>
+  <text x="599" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Apache</text>
+  <rect x="671" y="276" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="688" cy="293.0" r="4.5" fill="#F8DC75"/>
+  <text x="701" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Tomcat</text>
+  <rect x="773" y="276" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="790" cy="293.0" r="4.5" fill="#0076A8"/>
+  <text x="803" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">MATLAB</text>
+  <line x1="48" y1="323" x2="952" y2="323" stroke="#1B2740" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="48" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">IOT &amp; INDUSTRIAL</text>
+  <rect x="238" y="336" width="68" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="353.0" r="4.5" fill="#38BDF8"/>
+  <text x="268" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">OPC</text>
+  <rect x="316" y="336" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="333" cy="353.0" r="4.5" fill="#38BDF8"/>
+  <text x="346" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">MODBUS</text>
+  <rect x="418" y="336" width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="435" cy="353.0" r="4.5" fill="#B45BD6"/>
+  <text x="448" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">MQTT</text>
+  <rect x="504" y="336" width="116" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="521" cy="353.0" r="4.5" fill="#7C8DB5"/>
+  <text x="534" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Mosquitto</text>
+  <rect x="630" y="336" width="165" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="647" cy="353.0" r="4.5" fill="#2DD4BF"/>
+  <text x="660" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">PLC integration</text>
+  <line x1="48" y1="383" x2="952" y2="383" stroke="#1B2740" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="48" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.8" font-weight="600" fill="#8A9BB5">AI &amp; INTEGRATIONS</text>
+  <rect x="238" y="396" width="133" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="413.0" r="4.5" fill="#2DD4BF"/>
+  <text x="268" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">AI chatbots</text>
+  <rect x="381" y="396" width="165" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="398" cy="413.0" r="4.5" fill="#2DD4BF"/>
+  <text x="411" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">AI voice agents</text>
+  <rect x="556" y="396" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="573" cy="413.0" r="4.5" fill="#635BFF"/>
+  <text x="586" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Stripe</text>
+  <rect x="658" y="396" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="675" cy="413.0" r="4.5" fill="#2F7DE1"/>
+  <text x="688" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">PayPal</text>
+  <rect x="760" y="396" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="777" cy="413.0" r="4.5" fill="#3395FF"/>
+  <text x="790" y="418" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Razorpay</text>
+  <rect x="238" y="440" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="255" cy="457.0" r="4.5" fill="#F22F46"/>
+  <text x="268" y="462" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Twilio</text>
+  <rect x="340" y="440" width="84" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="357" cy="457.0" r="4.5" fill="#E01E5A"/>
+  <text x="370" y="462" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Slack</text>
+  <rect x="434" y="440" width="76" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#1B2740" stroke-width="1.2"/>
+  <circle cx="451" cy="457.0" r="4.5" fill="#2D8CFF"/>
+  <text x="464" y="462" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#C3D0E6">Zoom</text>
+</svg>

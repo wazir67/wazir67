@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Let's build something together - contact">
+  <title>Let's build something together - contact</title>
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="accv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1626"/><stop offset="1" stop-color="#080D19"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.1" cy="0" r="0.6"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gr" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.22"/><stop offset="0.6" stop-color="#38BDF8" stop-opacity="0.08"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity="0.05"/></pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="22" fill="url(#panel)" stroke="#1B2740"/>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="22" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="22" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="22" fill="url(#g2)"/>
+  <text x="500" y="82" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="800" fill="#E8EEF8" letter-spacing="-0.8">Let's build something <tspan fill="url(#acc)">together.</tspan></text>
+  <text x="500" y="116" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#8A9BB5">SaaS products  ·  custom platforms  ·  AI integrations  ·  engineering leadership</text>
+  <rect x="200" y="148" width="250" height="40" rx="20" fill="#2DD4BF" fill-opacity="0.08" stroke="#2DD4BF" stroke-opacity="0.5"/>
+  <text x="325" y="173" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#C3D0E6">wazirtufail67@hotmail.com</text>
+  <rect x="464" y="148" width="182" height="40" rx="20" fill="#2DD4BF" fill-opacity="0.08" stroke="#2DD4BF" stroke-opacity="0.5"/>
+  <text x="555" y="173" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#C3D0E6">wazir.dabluete.pk</text>
+  <rect x="660" y="148" width="140" height="40" rx="20" fill="#2DD4BF" fill-opacity="0.08" stroke="#2DD4BF" stroke-opacity="0.5"/>
+  <text x="730" y="173" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#C3D0E6">dabluete.com</text>
+</svg>
