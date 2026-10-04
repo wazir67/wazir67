@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="t">
+  <title id="t">Let's build something together - wazirtufail67@hotmail.com</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e3b3a"/>
+      <stop offset="0.5" stop-color="#10253b"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="150" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="150" rx="16" fill="url(#grid)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" text-anchor="middle">
+    <text x="600" y="68" font-size="30" font-weight="700" fill="#ffffff"><tspan fill="#5eead4">//</tspan> let's build something together</text>
+    <text x="600" y="106" font-size="16" fill="#9db4c8">wazirtufail67@hotmail.com   &#183;   wazir.dabluete.pk   &#183;   dabluete.com</text>
+  </g>
+</svg>

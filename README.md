@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Muhammad Tufail - Senior Software Engineer, Solutions Architect, Project Lead" width="100%">
-
-<br>
-
-<img src="./profile.png" alt="Muhammad Tufail" width="150" height="150">
+<img src="./hero.svg" alt="Muhammad Tufail - Senior Software Engineer, Solutions Architect, Project Lead" width="100%">
 
 <h3>I build the software behind your next big move.</h3>
 
@@ -16,7 +12,7 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%"><b>7+ years</b><br>building production software</td>
     <td align="center" width="33%"><b>12 products</b><br>shipped at Dabluete</td>
@@ -98,7 +94,7 @@ const developer = {
 
 <p align="center">Built at <a href="http://dabluete.com/">Dabluete</a>. Click a product name to see it live.</p>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <a href="https://dabluete.com/dablue-erp"><b>Dablue ERP</b></a><br>
